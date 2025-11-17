@@ -1,3 +1,0 @@
-{"order_id": 1, "patient_id": 101, "procedure_code": "MRI_BRAIN", "location": "hospital", "insurance_plan_id": "PPO_BASIC", "timestamp": "2025-11-17T10:00:00Z"}
-{"order_id": 2, "patient_id": 102, "procedure_code": "COLONOSCOPY", "location": "hospital", "insurance_plan_id": "PPO_PLUS", "timestamp": "2025-11-17T10:05:00Z"}
-{"order_id": 3, "patient_id": 103, "procedure_code": "MRI_BRAIN", "location": "hospital", "insurance_plan_id": "PPO_PLUS", "timestamp": "2025-11-17T10:10:00Z"}

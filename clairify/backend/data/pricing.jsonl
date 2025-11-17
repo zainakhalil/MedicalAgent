@@ -1,0 +1,3 @@
+{"procedure_code": "MRI_BRAIN", "provider_id": "IMG1", "provider_name": "Imaging Center", "location": "clinic", "insurance_plan_id": "PPO_BASIC", "allowed_amount": 600, "cash_price": 500}
+{"procedure_code": "MRI_BRAIN", "provider_id": "HOSP1", "provider_name": "City Hospital", "location": "hospital", "insurance_plan_id": "PPO_BASIC", "allowed_amount": 1200, "cash_price": 800}
+{"procedure_code": "COLONOSCOPY", "provider_id": "GI1", "provider_name": "GI Center", "location": "clinic", "insurance_plan_id": "PPO_PLUS", "allowed_amount": 1500, "cash_price": 1200}

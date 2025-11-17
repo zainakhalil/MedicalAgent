@@ -1,0 +1,5 @@
+Procedure: Colonoscopy.
+Description: A colonoscopy is a procedure in which a flexible tube with a camera is inserted into the rectum to examine the colon.
+Risks: Bleeding, perforation, infection, or reaction to sedation.
+Benefits: Detect and remove polyps, diagnose causes of bleeding or pain.
+Alternatives: Stool tests, imaging, or no procedure after discussing with your doctor.
